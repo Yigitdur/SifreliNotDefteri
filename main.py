@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import *
-from PIL import ImageTk, Image
+from PIL import ImageTk, Image #pip install pillow
 from tkinter import messagebox
 import base64
 
